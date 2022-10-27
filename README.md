@@ -8,4 +8,5 @@ prapare data as follows convert all letters to lowercase
 ,lemmatization.fearure extraction using tfidf after data
 preparation apply some of machine learning
 algorithms Logistic regression ,SVM and Decision tree.
+
 ● Accuracy 99.99
